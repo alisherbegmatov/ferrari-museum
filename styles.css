@@ -1,0 +1,19 @@
+body {
+  color:white;
+}
+.navbar {
+  padding 1rem;
+  background-color: black;
+}
+.btn-primary:hover {
+  background-color: blue;
+  color: white;
+}
+.hero-background-img {
+  background-image: url("ferrari.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
