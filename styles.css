@@ -9,11 +9,43 @@ body {
   background-color: blue;
   color: white;
 }
-.hero-background-img {
-  background-image: url("ferrari.jpg");
+.enzo-ferrari {
+  background-image: url("enzoferrari.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-top:200px;
-  padding-bottom:200px;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.enzo-ferrari2 {
+  background-image: url("enzoferrari2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.enzo-ferrari3 {
+  background-image: url("enzoferrari3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.enzo-ferrari4 {
+  background-image: url("enzoferrari4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+.enzo-ferrari5 {
+  background-image: url("enzoferrari5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
 }
